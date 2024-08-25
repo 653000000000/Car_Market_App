@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://653000000000.github.io/Car_Market_App",
   "scripts": {
     "predeploy": "vite build",
     "deploy": "gh-pages -d dist",
